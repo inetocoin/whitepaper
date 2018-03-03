@@ -18,6 +18,8 @@ All thouse problems lead to the limited TPS (Transactions Per Second), vertical 
 
 ### Vision
 
+### Coins and Accounts
+
 ### Sliding blockchain
 
 ### Sharding
@@ -26,4 +28,10 @@ All thouse problems lead to the limited TPS (Transactions Per Second), vertical 
 ### Fees
 
 Bitcoin fees are calculated per transaction between miner and sender on market basis. In reality every transaction that miner creates is supported by all nodes. So, in contrary to Bitcoin whereas market is between current miner and a sender, in reality there is a market between networks and a sender. Finally, sender selects network to transfer value with lesser fees.
+
+For network perspective, size of transaction and execution costs are almost constant and does not depend on amount. So, basically price that sender pays for the transaction must not depend on amount, and probably can depend on sender itself.
+
+The goal is to achieve in distributed network effect, whereas trustfully accounts would be able to achieve zero fees.
+
+So, basically it creates requirement of keeping transaction history of account and their scoring. 
 
