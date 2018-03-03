@@ -32,6 +32,8 @@ So, basically it creates requirement of keeping transaction history of account a
 
 ### Accounts
 
+### Known accounts
+
 ### Tokens
 
 ### Payments
