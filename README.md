@@ -28,7 +28,13 @@ The goal is to achieve in distributed network effect, whereas trustfully account
 
 So, basically it creates requirement of keeping transaction history of account and their scoring. 
 
-### Coins and Accounts
+### Coins
+
+### Accounts
+
+### Verification
+
+### Processing
 
 ### Sliding blockchain
 
