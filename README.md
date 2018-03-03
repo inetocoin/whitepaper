@@ -32,9 +32,13 @@ So, basically it creates requirement of keeping transaction history of account a
 
 ### Accounts
 
-### Verification
+### Tokens
 
-### Processing
+### Payments
+
+### Consensus algorithm
+
+### Verification
 
 ### Sliding blockchain
 
