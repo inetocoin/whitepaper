@@ -30,9 +30,13 @@ So, basically it creates requirement of keeping transaction history of account a
 
 ### Coins
 
+### Coins collector
+
 ### Accounts
 
 ### Known accounts
+
+### Scoring
 
 ### Tokens
 
