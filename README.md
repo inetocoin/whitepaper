@@ -25,5 +25,5 @@ All thouse problems lead to the limited TPS (Transactions Per Second), vertical 
 
 ### Fees
 
-Bitcoin fees are calculater per transaction on market basis. In reality every transaction that miner creates is supported by all nodes. So, in contrary to Bitcoin whereas market is between current miner and a sender, in reality there is a market between network and a sender.
+Bitcoin fees are calculated per transaction between miner and sender on market basis. In reality every transaction that miner creates is supported by all nodes. So, in contrary to Bitcoin whereas market is between current miner and a sender, in reality there is a market between networks and a sender. Finally, sender selects network to transfer value with lesser fees.
 
