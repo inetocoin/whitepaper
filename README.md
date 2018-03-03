@@ -12,6 +12,7 @@ First generation has the folowing problems:
 * no trash collectors
 * simple consensus algorithms (PoW, PoS)
 * use hard forks for bug-fixing
+* all transactions are public
 * no KYC and AML
 
 All thouse problems lead to the limited TPS (Transactions Per Second), vertical scaling and unlimited hard forks
