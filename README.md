@@ -1,6 +1,6 @@
 # whitepaper
 
-INETO White Paper 2018
+INETO White Paper 2018 v1.0 Draft
 
 ### Problem Statement
 
@@ -29,7 +29,13 @@ So, basically it creates requirement of keeping transaction history of account a
 
 ### Coins
 
+Ineto platform is going to support both: coins and accounts.
+
+Each coin is the combination of public and private keys. Public key could be hidden by hash (like in Bitcoin). User can redeem coin until it has balance by using private key signature.
+
 ### Coins collector
+
+To avoid support of unused coins in the system Ineto platform has coin collectors. Coin collector could be any participant that believes that some particular coin has no owner. To collect coin collector have to provide the bet or collateral that usually equals or less the balance of coin. If collector wrong, then he lose his bet and owner of coin adds the bet amount to the coin. If collector is right and coin owner did not redeem bet in 1000 blocks, then transaction automatically completed in a profit to coin collector.
 
 ### Accounts
 
