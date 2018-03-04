@@ -42,7 +42,7 @@ Ineto platform is going to support both: coins and accounts.
 
 Each coin is the combination of public and private keys. Public key could be hidden by hash (like in Bitcoin). User can redeem coin until it has balance by using private key signature.
 
-Initial version of Coins will support https://en.wikipedia.org/wiki/Curve25519 algothim. 
+Initial version of Coins will support https://en.wikipedia.org/wiki/Curve25519 algothim with modification for signs https://en.wikipedia.org/wiki/EdDSA#Ed25519. 
 Public address of the coin is Base64 of the byte array of Ed25519 public key with prefix 'I1' that indicates that it is ineto coin address with version 1.
 
 ### Coins collector
