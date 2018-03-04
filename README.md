@@ -19,7 +19,7 @@ All thouse problems lead to the limited TPS (Transactions Per Second), vertical 
 
 ### Privacy
 
-Ineto platform privides advanced level of privacy by using single transaction in the block. Each transaction in Ineto mixes inputs and outputs of different accounts by using two-phase commit protocol. Each atomic transaction between sender and reciever has additional 3 fields that other platforms does not have:
+Ineto platform privides advanced level of privacy by using single transaction in a block. Each transaction in Ineto mixes inputs and outputs of different accounts by using two-phase commit protocol. Each atomic transaction between sender and reciever has additional 3 fields that other platforms does not have:
 * sender address encrypted with random salt by reciever's public key
 * reciever's address encrypted with random salt by sender's public key
 * MEMO
