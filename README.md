@@ -17,6 +17,15 @@ All thouse problems lead to the limited TPS (Transactions Per Second), vertical 
 
 ### Vision
 
+### Privacy
+
+Ineto platform privides advanced level of privacy by using single transaction in the block. Each transaction in Ineto mixes inputs and outputs of different accounts by using two-phase commit protocol. Each atomic transaction between sender and reciever has additional 3 fields that other platforms does not have:
+* sender address encrypted with random salt by reciever's public key
+* reciever's address encrypted with random salt by sender's public key
+* MEMO
+
+Therefore, it will make all transactions in Ineto platform private, instead of public. 
+
 ### Fees
 
 Bitcoin fees are calculated per transaction between miner and sender on market basis. In reality every transaction that miner creates is supported by all nodes. So, in contrary to Bitcoin whereas market is between current miner and a sender, in reality there is a market between networks and a sender. Finally, sender selects network to transfer value with lesser fees.
