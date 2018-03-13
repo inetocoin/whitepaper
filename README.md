@@ -71,4 +71,8 @@ To avoid support of unused coins in the system Ineto platform has coin collector
 
 ### Conclusion
 
+### References
+
+[1] Satoshi Nakamoto. Bitcoin: A peer-to-peer electronic cash system. https://bitcoin.org/bitcoin.pdf.
+2008.
 
