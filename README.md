@@ -60,6 +60,25 @@ To avoid support of unused coins in the system Ineto platform has coin collector
 
 ### Payments
 
+Simplification of payments is very important for user adoption. 
+
+Payment functionality:
+1) Send 
+2) Request
+3) Cancel
+4) Charge
+5) Refund
+6) MEMO field 
+7) Multi-sign support
+
+Send functionality is needed to send instantly with known amount or to send later with max amount by "Charge" func. 
+Request functionality is needed to get approval for one-time payment or subscription (with or w/o expiration time, max amount). 
+Cancel is needed to cancel subscription.
+Charge is needed to charge the subsciption payment.
+Refund functionality is needed to return money back to sender.
+MEMO field is needed for indentification purpose (optional).
+Multi-sign is needed for multiple users are operating the same account.
+
 ### Consensus algorithm
 
 ### Verification
