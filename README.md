@@ -64,9 +64,11 @@ To avoid support of unused coins in the system Ineto platform has coin collector
 
 ### Verification
 
-### Sliding blockchain
+### Sliding-window blockchain
 
 ### Sharding
+
+Based on fungibility of money, it is possible to create shared nothing atchitecture in blockchain technology. For this purpose we prealocate N blockchains that serve the same cryptocurrency and perform operations in parallel in all of them independently. There is no need of messages between shards and master blockchain syncnchronizations, that how it is possible to achieve 1 MTPS or more.
 
 ### State Machines
 
